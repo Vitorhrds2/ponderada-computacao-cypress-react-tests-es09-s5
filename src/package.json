@@ -1,0 +1,15 @@
+{
+  "name": "ponderada-computacao-cypress-react-tests-es09-s5",
+  "version": "1.0.0",
+  "description": "Ponderada Semana 5 do módulo 9 de Engenharia de Software - 2024 - Teste de aplicação React com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.2"
+  }
+}
